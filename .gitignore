@@ -1,0 +1,15 @@
+node_modules/
+dist/
+out/
+*.local
+.DS_Store
+.vite/
+coverage/
+
+# 本地测试用的项目目录（包含真实音频/视频素材：体积大且可能涉及版权，不入库）
+测试项目/
+*.blsp/
+
+# 开发过程中随手放在根目录的参考截图
+屏幕截图*.png
+Screenshot*.png
